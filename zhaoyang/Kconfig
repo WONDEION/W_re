@@ -1,0 +1,7 @@
+#
+# The kconfig file of zhaoyang
+#
+
+config DEVICE_ZHAOYANG
+	bool 
+	default y
